@@ -1,1 +1,1 @@
-# Stock-MArket-Forecasting
+stock market prediction using machine learning algorithm
